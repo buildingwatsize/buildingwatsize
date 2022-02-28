@@ -1,7 +1,5 @@
 # ~ Hello from the other side ~
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
-
 ![wave](https://raw.githubusercontent.com/buildingwatsize/buildingwatsize/main/assets/wave.gif) I'm Chinnawat Chimdee, Aka `watsize`. Who be like a Programmer, a Software Developer, a Software Engineer, a DevOps Engineer, or whatever you want :smile:. I'm currently working for Bank of Agriculture and Agricultural Cooperatives (BAAC), Bangkok, Thailand.
 
 My top used programming languages are `JavaScript` and `Golang`. FYI
@@ -61,7 +59,7 @@ A social media list
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=f9f9f9)
 ![Ethereum](https://img.shields.io/badge/Ethereum-001634?style=for-the-badge&logo=Ethereum&logoColor=f9f9f9)
-![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=f9f9f9)
+![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=f9f9f9)
 
 <!-- Blog Posts -->
 
