@@ -57,8 +57,8 @@ A social media list
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![Watsize's GitHub stats](https://github-readme-stats.vercel.app/api?username=buildingwatsize&hide=contribs,prs&show_icons=true&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/buildingwatsize)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buildingwatsize&layout=compact&hide=java,php,css&langs_count=4&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/buildingwatsize)
+[![Watsize's GitHub stats](https://github-readme-stats.vercel.app/api?username=buildingwatsize&hide=contribs,prs&show_icons=true&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/buildingwatsize)
 [![Pin-zlogres](https://github-readme-stats.vercel.app/api/pin/?username=buildingwatsize&repo=zlogres&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/zlogres)
 [![Pin-thai-address-autocomplete-react](https://github-readme-stats.vercel.app/api/pin/?username=buildingwatsize&repo=thai-address-autocomplete-react&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/thai-address-autocomplete-react)
 
@@ -74,13 +74,6 @@ A social media list
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=buildingwatsize.buildingwatsize&right_color=001634)
 
-<!-- Blog Posts -->
-
-[blog-1]: https://medium.com/@ch.chinnawat/performance-benchmark-web-server-%E0%B8%82%E0%B8%B3%E0%B9%86-3ceda494247e
-[blog-2]: https://medium.com/@ch.chinnawat/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD-dev-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87-api-%E0%B9%80%E0%B8%8A%E0%B9%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87-%E0%B8%81%E0%B9%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2-ep2-ac848865275e
-[blog-3]: https://medium.com/devops-baac/%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%96%E0%B8%B9%E0%B8%81-%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2-random-unique-number-%E0%B9%80%E0%B8%A5%E0%B8%A2-e23a03b9f2ea
-[blog-4]: https://medium.com/devops-baac/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-customize-template-%E0%B9%81%E0%B8%A5%E0%B8%B0-script-%E0%B8%82%E0%B8%AD%E0%B8%87-create-react-app-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87-cfbb77c40a7d
-
 <!-- Images -->
 [cover]: https://raw.githubusercontent.com/buildingwatsize/buildingwatsize/main/assets/cover.png
 
@@ -89,3 +82,6 @@ A social media list
 <!-- Emojis: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Shields: https://shields.io/ -->
+<!-- Header Generator: https://reheader.glitch.me/ -->
+<!-- Visitor Badge: https://github.com/jwenjian/visitor-badge -->
+<!-- Articles: https://betterprogramming.pub/add-your-recent-published-mediums-article-on-github-readme-9ffaf3ad1606 -->
