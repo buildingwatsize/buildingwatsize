@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/buildingwatsize/buildingwatsize/main/assets/wave.gif" width="20px" /> I'm Chinnawat Chimdee, Aka `watsize`. Who be like a Programmer, a Software Developer, a Software Engineer, a DevOps Engineer, or whatever you want :smile:. I'm currently working for Bank of Agriculture and Agricultural Cooperatives (BAAC) in Bangkok, Thailand.
 
-My top used programming languages are `JavaScript` and `Golang`. FYI
+My top used programming languages are `JavaScript` (also `TypeScript`) and `Golang`. FYI
 
 ## 🔧 Technologies & Tools
 
@@ -57,9 +57,9 @@ A social media list
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buildingwatsize&layout=compact&hide=java,php,css&langs_count=4&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/buildingwatsize)
-[![Watsize's GitHub stats](https://github-readme-stats.vercel.app/api?username=buildingwatsize&hide=contribs,prs&show_icons=true&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/buildingwatsize)
-[![Pin-zlogres](https://github-readme-stats.vercel.app/api/pin/?username=buildingwatsize&repo=zlogres&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/zlogres)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buildingwatsize&layout=compact&hide=java,php,css&langs_count=6&title_color=f9f9f9&text_color=ffffff&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/buildingwatsize)
+[![Watsize's GitHub stats](https://github-readme-stats.vercel.app/api?username=buildingwatsize&hide=prs&show_icons=true&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/buildingwatsize)
+[![Pin-thaidatepicker-react](https://github-readme-stats.vercel.app/api/pin/?username=buildingwatsize&repo=thaidatepicker-react&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/thaidatepicker-react)
 [![Pin-thai-address-autocomplete-react](https://github-readme-stats.vercel.app/api/pin/?username=buildingwatsize&repo=thai-address-autocomplete-react&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/buildingwatsize/thai-address-autocomplete-react)
 
 ## Preferences
@@ -71,8 +71,6 @@ A social media list
 ![Counter-Strike](https://img.shields.io/badge/Counter--Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=f9f9f9)
 ![FIFA](https://img.shields.io/badge/FIFA-326295?style=for-the-badge&logo=fifa&logoColor=f9f9f9)
 ![Raspberry-Pi](https://img.shields.io/badge/Raspberri_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=f9f9f9)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=buildingwatsize.buildingwatsize&right_color=001634)
 
 <!-- Images -->
 [cover]: https://raw.githubusercontent.com/buildingwatsize/buildingwatsize/main/assets/cover.png
