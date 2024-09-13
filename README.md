@@ -4,7 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/buildingwatsize/buildingwatsize/main/assets/wave.gif" width="20px" /> I'm Chinnawat Chimdee, Aka `watsize`. Who be like a Programmer, a Software Developer, a Software Engineer, a DevOps Engineer, or whatever you want :smile:. I'm currently working for a bank in Bangkok, Thailand.
 
-My top used programming languages are `JavaScript` (also `TypeScript`) and `Golang`. FYI
+My side projects will be collected into [Owlsome](https://github.com/owlsome-official) (as soon as possible); thank you for following.
+
+My top used programming languages are `JavaScript` (also `TypeScript`) and `Golang`. just FYI. >//<
 
 ## 🔧 Technologies & Tools
 
