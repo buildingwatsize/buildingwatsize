@@ -2,7 +2,8 @@
 
 ![Cover][cover]
 
-<img src="https://raw.githubusercontent.com/buildingwatsize/buildingwatsize/main/assets/wave.gif" width="20px" />
+<!-- Disabled for now, fixing the silly problem in  -->
+<!-- <img src="https://raw.githubusercontent.com/buildingwatsize/buildingwatsize/main/assets/wave.gif" width="20px" /> -->
 
 I'm **NOT** Chinnawat Chimdee, Aka `watsize`. Who be like a Programmer, a Software Developer, a Software Engineer, a DevOps Engineer, or whatever you want :smile:. I'm currently working for a bank in Bangkok, Thailand.
 
